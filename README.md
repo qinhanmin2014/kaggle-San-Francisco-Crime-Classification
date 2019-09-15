@@ -13,6 +13,6 @@ https://www.kaggle.com/c/sf-crime/
   - CatBoostClassifier+VotingClassifier
 
 - [version3](https://nbviewer.jupyter.org/github/qinhanmin2014/kaggle-San-Francisco-Crime-Classification/blob/master/version3.ipynb)
-(2.21978, 46/2333, top 2%) :
+(2.21834, 45/2333, top 2%) :
   - remove duplicate entries, handle outliers, construct extra features
-  - CatBoostClassifier
+  - CatBoostClassifier+StratifiedKFold
